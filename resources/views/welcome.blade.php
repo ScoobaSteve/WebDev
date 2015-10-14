@@ -40,6 +40,7 @@
             <div class="content">
                 <div class="title">Laravel 5</div>
                 <div class="title"><strong>suckers</strong></div>
+                <div class="title">Website by Beardos</div>
             </div>
         </div>
     </body>
